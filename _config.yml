@@ -14,7 +14,7 @@ author: Andrei Da Silva
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Keratoconus: "aboutme"
+  About Keratoconus: "aboutkeratoconus"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
