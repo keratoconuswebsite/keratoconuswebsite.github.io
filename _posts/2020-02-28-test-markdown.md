@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My personal Keratoconus story
+title: My Personal Keratoconus Story
 subtitle: How I have found out and what i have done to prevent its developmen
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -8,14 +8,12 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+I found out officially I had keratoconus at the age of 14, this blog post is  about how I found out about my keratoconus and the struggles my family and I had to go trhough to solve it.
+**This blog post will be split into two parts, part one finding out about keratoconus, and part two cross-linking.**
 
-**Here is some bold text**
+## Finding out about keratoconus
 
-## Here is a secondary heading
-
-Here's a useless table:
-
+I was 14 around the time where I started to see large changes in my eyesight, I of course did not know how or why they were happening.
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
 | Five | Six | Four |
