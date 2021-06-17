@@ -3,7 +3,7 @@ layout: post
 title: My Personal Keratoconus Story
 subtitle: How I have found out and what i have done to prevent its development
 gh-repo: daattali/beautiful-jekyll
-tags: [test]
+tags: [Personal]
 comments: true
 ---
 
