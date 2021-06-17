@@ -14,13 +14,10 @@ I found out officially I had keratoconus at the age of 14, this blog post is  ab
 
 ## Finding out about keratoconus
 
-I was 14 around the time where I started to see large changes in my eyesight, I of course did not know how or why they were happening.
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+I was 14 around the time where I started to see large changes in my eyesight, I of course did not know how or why they were happening. Fortunetly for me my mother knew of her own keratoconus and we considered a possibility of me having it aswell. This is where things get messy, finding an optometrist to diagnose my keratoconus was by far the hardest part of the process. Most optometrists, since it is not a required process and an expensive machine, do not have the equipment to diagnose keratoconus. The closest location to me was over an hour away! 
+
+
+
 
 
 How about a yummy crepe?
