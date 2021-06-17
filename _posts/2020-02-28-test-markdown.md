@@ -9,24 +9,17 @@ comments: true
 ---
 
 I found out officially I had keratoconus at the age of 14, this blog post is  about how I found out about my keratoconus and the struggles my family and I had to go trhough to solve it.
-**This blog post will be split into two parts, part one finding out about keratoconus, and part two cross-linking.**
 
+**This blog post will be split into two parts, part one finding out about keratoconus, and part two cross-linking.**
 
 ## Finding out about keratoconus
 
 I was 14 around the time where I started to see large changes in my eyesight, I of course did not know how or why they were happening. Fortunetly for me my mother knew of her own keratoconus and we considered a possibility of me having it aswell. This is where things get messy, finding an optometrist to diagnose my keratoconus was by far the hardest part of the process. Most optometrists, since it is not a required process and an expensive machine, do not have the equipment to diagnose keratoconus. The closest location to me was over an hour away! 
 
+When I was diagnosed for keratoconus I found out about more than a couple things that could've led up to point in which my cornea gained a slight cone shape. Terrible allergies (which I had), Dry eyes (which I had), Constant eye irritation (I rubbed my eyes far too much), and of course the infamous genetics. Luckily for me, although I have found my vision loss quite distressing, we had found my keratoconus relatively early and were able to complete the less invasive fix, cross-linking.
 
+## The Cross-Linking
 
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
