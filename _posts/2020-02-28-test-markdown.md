@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Personal Keratoconus Story
-subtitle: How I have found out and what i have done to prevent its developmen
+subtitle: How I have found out and what i have done to prevent its development
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -10,6 +10,7 @@ comments: true
 
 I found out officially I had keratoconus at the age of 14, this blog post is  about how I found out about my keratoconus and the struggles my family and I had to go trhough to solve it.
 **This blog post will be split into two parts, part one finding out about keratoconus, and part two cross-linking.**
+
 
 ## Finding out about keratoconus
 
