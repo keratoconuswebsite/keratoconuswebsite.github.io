@@ -19,6 +19,7 @@ When I was diagnosed for keratoconus I found out about more than a couple things
 
 ## The Cross-Linking
 
+My family and I were able to find an ophthomologist who was able to do the cross linking for me in miami within a month of the diagnosis. We were able to complete the hour long procedure during the summer holidays, and although it was grueling it was no where near as bad as I thought it would be. Although laying down with UV light shined into my eyes it was worth it for the slow down of the keratoconus development which at that time was developing very fast. With this treatment I was able to switch to sclarel lenses that would both help keep my cornea in a proper shape and increase my eyesight tenfold, and of course now I have been able to perform better in school and in sports (I would say not falling asleep in class is pretty helpful). 
 
 Here's a code chunk:
 
