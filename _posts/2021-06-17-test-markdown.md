@@ -23,7 +23,7 @@ My family and I were able to find an ophthomologist who was able to do the cross
 
 
 
-![CXL](../Pictures/IMG_6383.jpg)
+![CXL](../IMG_6383.jpg)
 
 
 
