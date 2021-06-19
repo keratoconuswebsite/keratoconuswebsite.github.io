@@ -14,8 +14,33 @@ Blurred Vision
 
 Sensitivity to light and glare
 
+Rapid change in vision 
 
+Dry eyes/Constant irritation
 
+Headaches due to eye pain
+
+---
+Keratoconus Causes
+---
+
+Genetics i.e. family member has keratoconus
+
+Heavy eye rubbing 
+
+Eye inflammation due to allergies or other irritants
+
+Often progresses quickly during teenage years
+
+---
+Keratoconus Solutions
+---
+
+Corneal Collagean Cross-Linking. Vitamin B2 is applied to the eye and then placed under ultraviolet light for 30 min.
+
+Intacts. These rings surround the eye and flatten the cornea.
+
+Corneal Transplant. Cornea surgery replaces the patients cornea with a donors cornea. Vision remains blurry for a couple of months after the surgery and patient has to take medication for their body not to reject the new cornea.
 
 
 
