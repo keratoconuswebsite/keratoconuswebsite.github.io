@@ -7,9 +7,9 @@ tags: [Personal]
 comments: true
 ---
 
-I found out officially I had keratoconus at the age of 14, this blog post is  about how I found out about my keratoconus and the struggles my family and I had to go trhough to solve it.
+I found out officially I had keratoconus at the age of 14, this blog post is  about how I found out about my keratoconus and the struggles my family and I had to go through to solve it.
 
-**This blog post will be split into two parts, part one finding out about keratoconus, and part two cross-linking.**
+**This blog post will be split into two parts, part one finding out about keratoconus, and part two the cross-linking.**
 
 ## Finding out about keratoconus
 
