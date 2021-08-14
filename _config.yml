@@ -15,10 +15,10 @@ author: Andrei Da Silva
 
 navbar-links:
   About Keratoconus: "aboutkeratoconus"
-#  Resources:
+  Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-#  Support Us: "https://deanattali.com"
+  Support Us: "https://deanattali.com"
 
 # --- Logo --- #
 
