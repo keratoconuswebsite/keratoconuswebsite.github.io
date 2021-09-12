@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Personal Keratoconus Story
-subtitle: How I have found out and what i have done to prevent its development
+subtitle: How I found out I have keratoconus and what I have done to prevent its development
 gh-repo: daattali/beautiful-jekyll
 tags: [Personal]
 comments: true
