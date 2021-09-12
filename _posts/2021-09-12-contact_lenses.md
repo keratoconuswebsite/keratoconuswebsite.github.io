@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Contact Lense Story
+title: My Contact Lens Story
 subtitle: The struggle I went through to find a proper pair of contacts
 gh-repo: daattali/beautiful-jekyll
 tags: [Personal]
